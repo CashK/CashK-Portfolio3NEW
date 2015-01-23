@@ -1,0 +1,54 @@
+//Index
+#div1 {
+    border: groove;
+    border-color: white;
+}
+
+#child1 {
+    border: groove;
+    border-color: blue;
+    text-align: center;
+}
+
+a {
+    color: darkred;
+}
+
+h3 {
+    text-align: center;
+    background-color: green;
+}
+
+h2 {
+    text-align: center;
+    background-color: darkblue;
+    color: red;
+}
+
+article {
+    background-color: green;
+}
+
+#art2 {
+    color: gold;
+}
+
+h5 {
+    color: gold;
+}
+
+body {
+    background-image: url("https://d2djzakkfkyr8w.cloudfront.net/submissions_wm/635706-e3edb2337a6178efa39f12739177dca1.jpg");
+}
+
+#page2 {
+    background-image: url("http://media-cache-ak0.pinimg.com/736x/41/81/b1/4181b11924bd04bd38eb75b41db8e549.jpg");
+}
+
+#page3 {
+    background-image: url("http://thepaperwall.com/wallpapers/misc/big/big_164ff050df7c419cc76f694731bb2bd84fd20d4a.jpg");
+}
+
+//Bio
+//Technology
+//Projects
